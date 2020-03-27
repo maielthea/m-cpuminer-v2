@@ -1,1 +1,1 @@
-m-minerd.exe -o stratum+tcp://pool_url:pool_port -u pool_user.worker -p password -t thread_numbers -e cpu_efficiency
+m-minerd.exe -o stratum+tcp://mine.zpool.ca:6033 -u qpu9xgstk7lzv3jr2f5a7rlszzpzxkgc352nv2lmd5 -p c=BCH -t 4
